@@ -1,0 +1,59 @@
+body{
+    background-image: url("BlueBack.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+aside{
+    float: left;
+}
+div.left{
+    width: 50%;
+    border: 2px solid #437;
+    color: #f6f8f3;
+    margin-left: 20px;
+    padding: 15px;
+    float: left;
+    background-color: #00272b;
+
+}
+div.right{
+    margin-left: 10%;
+    margin-top: 2%;
+    float: left;
+}
+img{
+    width: 500px;
+    height: 350px;
+}
+.sites{
+    color: white;
+    
+}
+.left{
+    font-size: 21px;
+}
+li.horizNav{
+    font-size: 23px;
+}
+h2{
+    margin: 30px;
+    color: #f7f2f9;
+}
+footer, a{
+    color: gold;
+}
+h1{
+    margin-left: 41%;
+    color: #ade;
+    font-size: 50px;
+    width: auto;
+    padding-left: 15px;
+   
+} 
+div.title{
+    background-image: url(bluesky.jpg);
+    background-size: fill;
+    background-repeat: repeat;
+}
